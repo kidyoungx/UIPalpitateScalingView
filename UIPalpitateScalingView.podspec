@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "A UIView that scaling like Heart Palpitate."
 
   spec.description  = <<-DESC
-                        A UIView that scaling like Heart Palpitate.
+                        A UIView that scaling like Heart Palpitate. Anamition sample, not useful.
                    DESC
 
   spec.homepage     = "https://github.com/kidyoungx/UIPalpitateScalingView"
